@@ -1,3 +1,3 @@
-module github.com/kaushalmodi/hugo-jf2
+module github.com/anthonygraca/hugo-jf2
 
 go 1.16
